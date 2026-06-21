@@ -4,8 +4,8 @@
 Relatório técnico-analítico que transforma os dados transacionais da **Olist** (marketplace brasileiro) em uma narrativa executiva sobre **crescimento e receita, eficiência logística, comportamento de pagamento e satisfação do cliente** — com recomendações acionáveis e uma previsão de receita de curto prazo.
 
 > 📓 Análise completa: [`notebook/Tech_Challenge_Olist_Fase1.ipynb`](notebook/Tech_Challenge_Olist_Fase1.ipynb)
-> 🎥 Vídeo executivo (até 5 min): _[link a preencher]_
-> 📊 Apresentação executiva (storytelling): _[link a preencher]_
+> 🎥 Vídeo executivo (até 5 min): https://www.veed.io/view/pt-PT/e9bba191-470d-4b7c-a77c-09e30d058748?panel=share
+> 📊 Apresentação executiva (storytelling):(https://github.com/munhol/data-analytics_fiap/blob/main/Apresentacao_Olist_-_Tech_Challenge_Fase_1.pptx)
 
 ---
 
@@ -25,8 +25,8 @@ O notebook segue cinco trilhas analíticas sugeridas no enunciado do desafio:
 
 ```
 .
-├── data/                    # CSVs originais do dataset Olist (ver seção 4 — não versionados no Git)
-├── charts/                  # Gráficos exportados em alta resolução (.png), prontos para a apresentação
+├── data/                   
+├── charts/                
 ├── notebook/
 │   └── Tech_Challenge_Olist_Fase1.ipynb   # Notebook executivo completo (análise + insights)
 ├── requirements.txt         # Dependências Python
@@ -96,5 +96,5 @@ As decisões de tratamento de dados (filtro de status de pedido, janela temporal
 
 ## 7. Autoria
 
-**Grupo:** _[preencher com o nome do grupo / integrantes]_
+**Grupo:** Emerson Victor da Silva Meira
 **Disciplina:** Data Analytics — POSTECH | Tech Challenge — Fase 1
