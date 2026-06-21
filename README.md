@@ -3,7 +3,7 @@
 
 Relatório técnico-analítico que transforma os dados transacionais da **Olist** (marketplace brasileiro) em uma narrativa executiva sobre **crescimento e receita, eficiência logística, comportamento de pagamento e satisfação do cliente** — com recomendações acionáveis e uma previsão de receita de curto prazo.
 
-> 📓 Análise completa: [`notebook/Tech_Challenge_Olist_Fase1.ipynb`](notebook/Tech_Challenge_Olist_Fase1.ipynb)
+> 📓 Análise completa: https://github.com/munhol/data-analytics_fiap/blob/main/Tech_Challenge_Olist_Fase1.ipynb
 > 🎥 Vídeo executivo (até 5 min): https://www.veed.io/view/pt-PT/e9bba191-470d-4b7c-a77c-09e30d058748?panel=share
 > 📊 Apresentação executiva (storytelling):(https://github.com/munhol/data-analytics_fiap/blob/main/Apresentacao_Olist_-_Tech_Challenge_Fase_1.pptx)
 
